@@ -33,7 +33,7 @@ function showQuotes(quote){
     quoteList.innerHTML += `<li data-id=${quote.id} class='quote-card'>
     <blockquote class="blockquote">
     <p class="mb-0">${quote.quote}</p>
-    <footer class="blockquote-footer">Author: ${quote.author}</footer>
+    <footer data-id=${quote.id} class="blockquote-footer">Author: ${quote.author}</footer>
     <br>
     <button class='btn-success'>Likes: <span>${quote.likes}</span></button>
     <button class='btn-danger'>Delete</button>
