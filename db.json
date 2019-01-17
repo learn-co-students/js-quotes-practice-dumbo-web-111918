@@ -1,16 +1,34 @@
 {
   "quotes": [
     {
-      "quote": "jisjgrj",
-      "author": "ajiai",
-      "likes": 3,
-      "id": 2
+      "quote": "can you make this quote a little more quotelike?",
+      "author": "gracie",
+      "likes": 6,
+      "id": 4
     },
     {
-      "quote": "do u do the thing",
-      "author": "page",
-      "likes": 2,
-      "id": 3
+      "quote": "\"i'm joe\"",
+      "author": "joe",
+      "likes": 3,
+      "id": 5
+    },
+    {
+      "quote": "thank u next",
+      "author": "ana ariana grande",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "quote": "aaaaaa ",
+      "author": "aaron samuels",
+      "likes": 0,
+      "id": 7
+    },
+    {
+      "quote": "zzzzzz",
+      "author": "zaaron samuels",
+      "likes": 0,
+      "id": 8
     }
   ]
 }
